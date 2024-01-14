@@ -17,7 +17,6 @@ class Viewport {
         this.#addEventListeners();
     }
 
-    // Executes the animation loop every frame (60fps) 60 times per second
     reset() {
         this.ctx.restore();
         this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
