@@ -1,2 +1,3 @@
 # Virtual World
-A virtual world with self-driving cars in HTML, CSS, and Vanilla JavaScript.
+
+A virtual world with self-driving cars in HTML, CSS, and JavaScript.
